@@ -1,4 +1,4 @@
 euler.clj
 =========
 
-Project Euler - Clojure edition
+[Project Euler](http://projecteuler.net/) - Clojure edition
